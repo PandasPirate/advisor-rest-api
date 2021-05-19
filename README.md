@@ -11,11 +11,8 @@
 1. Run server <br/>
 ```python manage.py runserver```
 
-## Heroku Deployment link
+# Heroku Deployment link
 https://advisor-rest-api.herokuapp.com/
 
-## Link to import Postman Collaction 
+# Link to import Postman Collaction 
 https://www.postman.com/collections/c3095fc12ede18d40a99
-"# advisor-api" 
-"# advisor-api" 
-"# advisor-api" 
